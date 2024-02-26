@@ -1,0 +1,4 @@
+I learned:
+git is separate from github
+git is a version control program
+git can be used on the command line or with a separate GUI program
