@@ -1,0 +1,4 @@
+I learned:
+github switched from master to main as the default branch name
+github has different levels for larger teams and companies
+how to create a github SSH key
